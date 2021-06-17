@@ -1,0 +1,293 @@
+.subtoyt{
+    text-decoration: none;
+    color: #EBE702;
+    cursor:pointer;
+    text-decoration-style: none;
+}
+body{
+background: hsl(227, 10%, 10%);;
+text-align: center;
+margin-top: 20%;
+font-size: larger;
+text-decoration-style:none ;
+-moz-text-decoration-style: none;
+}
+.S-logo{
+position: absolute;
+  left: 1.5%;
+  width: 45px;
+  bottom: 93%;
+}
+.menu2 ul{
+    display: inline-flex;
+    margin: 50px;
+    text-decoration-style: none;
+}
+.menu2 ul li{
+    list-style: none;
+    margin: 0 20px;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    margin-top: -10%;
+    text-decoration-style: none;
+  }
+
+  .S-logo{
+      position: absolute;
+      left: 1.5%;
+      width: 45px;
+      bottom: 94%;
+    }
+    
+  .menu ul{
+    display: inline-flex;
+    margin: 50px;
+    text-decoration-style: none;
+  
+  }
+  .menu ul li{
+    list-style: none;
+    margin: 0 20px;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    margin-top: -10%;
+  
+   
+    
+  }
+
+  .active2{
+    list-style: none;
+    margin: 0 20px;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    margin-top: -10%;
+    text-decoration: none;
+    text-decoration-style: none;
+  }
+  .sp-btn2{
+    bottom: 94%;
+    right: 1700px;
+    position: absolute;
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 22px;
+    background-image: linear-gradient(#d4db00,#d4db00 ),radial-gradient(circle at top left,yellow,green);
+    color: black;
+    background-origin:border-box ;
+    background-clip: content-box,border-box;
+    text-decoration: none;
+    display: block;
+    padding: 3px 3px;
+    text-decoration-style:none ;
+  }
+  .sp-btn2 span{
+    display: block;
+    padding: 1px 1px;
+  }
+  @import url('https://fonts.googleapis.com/css?family=Nunito:400,600,700');
+  
+
+body{
+  font-family: 'Nunito', sans-serif;
+  text-decoration-style: none;
+  text-decoration: none;
+}
+
+.a{color: #E7484F}
+.b{color: #F68B1D}
+.c{color: #FCED00}
+.d{color: #009E4F}
+.e{color: #00AAC3}
+.f{color:  #732982}
+text-decoration-style: none;
+
+
+.container{
+  margin-top: 150px;
+  text-decoration-style: none;
+}
+
+.text-center {
+  text-align: center;
+  text-decoration-style: none;
+}
+
+.rainbow{
+  background-color: #343A40;
+  border-radius: 4px;  
+  color: #fff;
+  cursor: pointer;
+  padding: 8px 16px;
+  text-decoration-style: none;
+  
+}
+
+.rainbow-1:hover{
+   background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
+   animation:slidebg 5s linear infinite;
+   text-decoration-style: none;
+}
+
+.rainbow-2:hover{
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet, red);
+  animation:slidebg 2s linear infinite;
+  text-decoration-style: none;
+}
+
+.rainbow-3:hover{
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, red);
+  animation:slidebg 2s linear infinite;
+  text-decoration-style: none;
+}
+
+.rainbow-4:hover{
+   background-image:     linear-gradient(
+      to right, 
+      #E7484F,
+      #F68B1D, 
+      #FCED00,
+      #009E4F,
+      #00AAC3,
+      #732982
+    );
+  animation:slidebg 2s linear infinite;
+  text-decoration-style: none;
+}
+
+
+.rainbow-5:hover{
+   background-image:     linear-gradient(
+      to right, 
+      #E7484F,
+      #E7484F 16.65%,
+      #F68B1D 16.65%,
+      #F68B1D 33.3%,
+      #FCED00 33.3%,
+      #FCED00 49.95%,
+      #009E4F 49.95%,
+      #009E4F 66.6%,
+      #00AAC3 66.6%,
+      #00AAC3 83.25%,
+      #732982 83.25%,
+      #732982 100%,
+      #E7484F 100%
+      text-decoration-style: none;
+     
+     
+     
+    );
+  animation:slidebg 2s linear infinite;
+  text-decoration-style: none;
+}
+
+
+@keyframes slidebg {
+  to {
+    background-position:20vw;
+    text-decoration-style: none;
+    text-decoration: none;
+  }
+  ul{
+    list-style-type:none;
+    }
+.rpgff2{
+    position:absolute;
+    text-decoration-style:none;
+    right: 80%
+}}
+.Amonimg{
+    position: absolute;
+    right: 78%;
+    height: 198px;
+    border: 5px solid gold;
+    padding: .8em;
+    bottom: 43%;
+}
+.rainbow{
+    position: absolute;
+    right: 80%;
+    bottom: 34%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+#sptet {
+  font-family: 'Krona One', sans-serif;
+  color: gold;
+  position: absolute;
+  bottom:70%;
+  font-size: larger;
+  right: 84%;
+}
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+body {
+	margin: 0;
+	background: #222;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 800;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+  background: yellowgreen;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.logo {
+  float: left;
+  padding: 10px 0;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+
+  position: relative;
+}
+
+nav a {
+  color: #444;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+nav a:hover {
+  color: #000;
+}
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background-color: #444;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
